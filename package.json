@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-toastify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nx.toast for react-toastify.",
   "homepage": "https://js.work",
   "author": {
@@ -44,5 +44,10 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "react",
+    "next",
+    "toast"
+  ]
 }
